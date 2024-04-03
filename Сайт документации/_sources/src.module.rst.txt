@@ -1,0 +1,66 @@
+Submodules
+__________
+
+src.forum\_module.additional module
+____________________________________
+
+.. automodule:: src.forum_module.additional
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.forum\_module.admin module
+__________________________________________________________
+
+.. automodule:: src.forum_module.admin
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.forum\_module.general module
+___________________________________________
+
+.. automodule:: src.forum_module.general
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.forum\_module.guest module
+___________________________________
+
+.. automodule:: src.forum_module.guest
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.forum\_module.moder module
+______________________________________________
+
+.. automodule:: src.forum_module.moder
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.forum\_module.tags module
+______________________________________________
+
+.. automodule:: src.forum_module.tags
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.forum\_module.users module
+______________________________________________
+
+.. automodule:: src.forum_module.users
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.forum\_module.visit module
+______________________________________________
+
+.. automodule:: src.forum_module.visit
+   :members:
+   :undoc-members:
+   :show-inheritance:
